@@ -1,0 +1,9 @@
+.cont_upper {
+  display: flex;
+  justify-content: space-around;
+}
+
+.left_icon {
+  display: flex;
+  align-items: center;
+}
